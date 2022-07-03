@@ -12,6 +12,7 @@ Zomato is the one of the best food delivery website.
 <li> CSS </li>
 <li> BootStrep </li>
 
+#Output
 
 ![Screenshot 2022-07-03 181821](https://user-images.githubusercontent.com/83862036/177040505-525bee96-bd8f-4661-a15a-73aaa4f6fca5.jpg)
 ![Screenshot 2022-07-03 181854](https://user-images.githubusercontent.com/83862036/177040508-ffb57123-7791-4cf1-9a38-834b9f520e5e.jpg)
